@@ -26,7 +26,7 @@
     NSString * url = @"APPTicket://AAAViewController?name=哈哈&productId=123456";
     //        url = @"APPTicket://AAAViewController";
     
-    UIViewController *vc = [JuanRouter openControllerWithURL:url];
+//    UIViewController *vc = [JuanRouter openControllerWithURL:url];
 //    [self.navigationController pushViewController:vc animated:YES];
 //    [self presentViewController:vc animated:YES completion:nil];
 
