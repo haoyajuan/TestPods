@@ -5,7 +5,7 @@
 
 Pod::Spec.new do |s|
 
-  s.name         = "HYJRouterTest"
+  s.name         = "TestPods"
   s.version      = "1.0.0"
   s.summary      = " 测试 HYJRouterTest.podpec."
 
