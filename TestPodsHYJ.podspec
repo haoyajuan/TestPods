@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.author       = { "Juan" => "haoyajuan@163.com" }
   s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/haoyajuan/TestPodsHYJ.git", :tag => "#{s.version}" }
-  s.source_files  =  "HYJRouterTest/**/*"
+  s.source_files  =  "TestPodsHYJ/HYJRouterTest/**/*"
   s.requires_arc = true
 
 end
